@@ -1,4 +1,6 @@
 adata.h5ad
 combined_mouse_colon.h5ad
 combined_mouse_colon_final.rds
+adata_copy.h5ad
+combined_copy.h5ad
 SpatialPlots/
