@@ -7,3 +7,13 @@ SpatialPlots/
 adata_sp_HC.h5ad
 adata_sp_DSS.h5ad
 .venv/
+Spatial_paper/
+X_raw.csv
+cell_properties.csv
+gene_names.csv
+adata_genes.csv
+missing_markers.csv
+adata_hc.h5ad
+celltypes_by_tier.csv
+Plots/
+Feature_Plots_Healthy/
